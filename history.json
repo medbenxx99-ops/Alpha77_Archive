@@ -1,31 +1,25 @@
 {
-  "matches": {
-    "match_1": "كرواتيا vs غانا",
-    "match_2": "بنما vs إنجلترا",
-    "match_3": "كولومبيا vs البرتغال",
-    "match_4": "الكونغو vs أوزبكستان",
-    "match_5": "الجزائر vs النمسا",
-    "match_6": "الأرجنتين vs الأردن"
-  },
-  "round_1": {
-    "Reda": {"match_1": [2, 1], "match_2": [1, 3], "match_3": [1, 2], "match_4": [1, 0], "match_5": [1, 1], "match_6": [4, 0]},
-    "Krimo": {"match_1": [1, 1], "match_2": [0, 3], "match_3": [0, 3], "match_4": [1, 1], "match_5": [1, 0], "match_6": [3, 0]},
-    "Kamel": {"match_1": [0, 0], "match_2": [0, 2], "match_3": [1, 2], "match_4": [1, 0], "match_5": [1, 1], "match_6": [3, 0]},
-    "Nolito": {"match_1": [2, 1], "match_2": [1, 2], "match_3": [2, 1], "match_4": [1, 0], "match_5": [0, 2], "match_6": [2, 0]},
-    "Nesro": {"match_1": [2, 1], "match_2": [0, 3], "match_3": [2, 2], "match_4": [0, 0], "match_5": [1, 2], "match_6": [3, 0]},
-    "Ayoub": {"match_1": [2, 1], "match_2": [0, 3], "match_3": [1, 3], "match_4": [2, 1], "match_5": [1, 0], "match_6": [3, 1]},
-    "Tito": {"match_1": [2, 1], "match_2": [0, 3], "match_3": [1, 3], "match_4": [2, 1], "match_5": [2, 1], "match_6": [4, 0]},
-    "Trad": {"match_1": [2, 1], "match_2": [1, 3], "match_3": [1, 2], "match_4": [1, 1], "match_5": [2, 0], "match_6": [3, 0]},
-    "Djalil mika": {"match_1": [1, 1], "match_2": [0, 3], "match_3": [0, 2], "match_4": [1, 1], "match_5": [2, 0], "match_6": [4, 0]},
-    "Dany": {"match_1": [2, 3], "match_2": [0, 4], "match_3": [1, 3], "match_4": [2, 1], "match_5": [1, 1], "match_6": [3, 0]},
-    "Djalil": {"match_1": [0, 1], "match_2": [1, 3], "match_3": [2, 2], "match_4": [4, 2], "match_5": [3, 1], "match_6": [7, 0]},
-    "Djaafer": {"match_1": [1, 1], "match_2": [0, 3], "match_3": [1, 2], "match_4": [1, 1], "match_5": [1, 1], "match_6": [3, 0]},
-    "Riad": {"match_1": [3, 1], "match_2": [0, 3], "match_3": [0, 3], "match_4": [1, 0], "match_5": [0, 0], "match_6": [4, 0]},
-    "Madjid": {"match_1": [1, 1], "match_2": [0, 3], "match_3": [1, 2], "match_4": [3, 1], "match_5": [1, 3], "match_6": [2, 1]},
-    "Hakim": {"match_1": [2, 1], "match_2": [1, 3], "match_3": [1, 2], "match_4": [2, 2], "match_5": [2, 1], "match_6": [4, 0]},
-    "Abdo": {"match_1": [null, null], "match_2": [null, null], "match_3": [null, null], "match_4": [null, null], "match_5": [null, null], "match_6": [null, null]},
-    "Amine": {"match_1": [1, 1], "match_2": [0, 3], "match_3": [1, 3], "match_4": [3, 1], "match_5": [2, 1], "match_6": [3, 0]},
-    "Gauché": {"match_1": [2, 2], "match_2": [0, 3], "match_3": [0, 2], "match_4": [2, 1], "match_5": [1, 1], "match_6": [3, 0]},
-    "Billy": {"match_1": [2, 1], "match_2": [1, 3], "match_3": [1, 3], "match_4": [2, 0], "match_5": [2, 1], "match_6": [3, 0]}
+  "Round_2026-06-28": {
+    "Reda": ["1 🇨🇦", "0 🇿🇦"],
+    "Kamel": ["1 🇨🇦", "0 🇿🇦"],
+    "Nolito": ["2 🇨🇦", "1 🇿🇦"],
+    "Krimo": ["2 🇨🇦", "0 🇿🇦"],
+    "Nesro": ["3 🇨🇦", "1 🇿🇦"],
+    "Ayoub": ["2 🇨🇦", "1 🇿🇦"],
+    "Tito": ["2 🇨🇦", "0 🇿🇦", "1 🇨🇦", "0 🇿🇦", "1 🇨🇦", "0 🇿🇦", "0 🇨🇦", "0 🇿🇦"],
+    "Trad": ["2 🇨🇦", "1 🇿🇦"],
+    "Madjid": ["1 🇨🇦", "1 🇿🇦"],
+    "Dany": ["2 🇨🇦", "3 🇿🇦"],
+    "Djalil": ["1 🇨🇦", "2 🇿🇦"],
+    "Djalil mika": ["2 🇨🇦", "1 🇿🇦"],
+    "Riad": ["2 🇨🇦", "1 🇿🇦"],
+    "Djaafer": ["3 🇨🇦", "0 🇿🇦"],
+    "Hakim": ["3 🇨🇦", "1 🇿🇦"],
+    "Abdo": ["1 🇨🇦", "0 🇿🇦"],
+    "Amine": ["2 🇨🇦", "1 🇿🇦"],
+    "Gauché": ["1 🇨🇦", "0 🇿🇦"],
+    "Billy": ["2 🇨🇦", "0 🇿🇦"],
+    "Bilal": ["1 🇨🇦", "3 🇿🇦"],
+    "A": ["2 🇨🇦", "0 🇿🇦"]
   }
-      }
+}
